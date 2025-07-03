@@ -1,0 +1,19 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore virtual environments (optional)
+env/
+venv/
+
+# macOS system file (if you're on Mac)
+.DS_Store
+
+# VSCode settings (if you're using VS Code)
+.vscode/
+
+# Ignore environment variable files (if any)
+.env
